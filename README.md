@@ -1,4 +1,4 @@
-# MIS444 - BigMart Sales Prediction
+#Predictive-Analytics-in-Business_sales_project
 
 ## Project overview
 This course project applies predictive analytics to a retail sales problem. The objective is to predict `Item_Outlet_Sales`, a continuous sales outcome, using product and outlet characteristics from the BigMart Sales Prediction dataset.
